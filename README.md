@@ -2,6 +2,7 @@
 The official implementation of the Learned DFS Ordering (LDFS) algorithm and the baselines in the following paper:
 
 McCauley, S., Moseley, B., Niaparast, A. and Singh, S., 2024. Incremental Topological Ordering and Cycle Detection with Predictions.
+arXiv preprint arXiv:2402.11028.
 
 ## Datasets
 
